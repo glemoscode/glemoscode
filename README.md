@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Guilherme%20Lemos&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ADS%20Student&descAlignY=56&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Guilherme%20Lemos&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Ex%C3%A9rcito%20Brasileiro&descAlignY=56&descColor=8b949e"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%7C+Node.js+%7C+TypeScript;Estudante+de+ADS;Aberto+a+oportunidades+de+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%7C+Node.js+%7C+SQLite;Estudante+de+ADS+na+UDF;Forma%C3%A7%C3%A3o+Full+Stack+Pro+pelo+Dev+Club" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,9 +12,12 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack com 6 meses de experiência prática, atualmente trabalhando na **Autoridade Certificadora de Defesa** como desenvolvedor, onde mantenho e evoluo sistemas internos. Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e fui formado pelo **Dev Club**.
+Desenvolvedor Full Stack com 6 meses de experiência prática, atualmente trabalhando na **Autoridade Certificadora de Defesa (órgão do Comando do Exército Brasileiro)**. Atuo na manutenção e evolução de sistemas internos, melhorando serviços com base em aprendizado contínuo e colaboração constante com uma equipe técnica experiente.
 
-Já coloquei em produção um sistema completo rodando em **VM Linux Debian** com banco de dados **SQLite**. Baseado em **Brasília, Brasil**.
+*   🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **UDF**.
+*   🚀 Concluindo o curso **FullStack Pro no Dev Club** com o professor Rodolfo Mori.
+*   🛡️ Experiência real em colocar sistemas complexos em produção utilizando **VM Linux Debian** e **SQLite**.
+*   📍 Baseado em **Brasília, Brasil**.
 
 ---
 
@@ -27,6 +30,7 @@ Já coloquei em produção um sistema completo rodando em **VM Linux Debian** co
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Back-end & Banco de Dados**
 
@@ -53,16 +57,7 @@ Já coloquei em produção um sistema completo rodando em **VM Linux Debian** co
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Debian](https://img.shields.io/badge/Linux_Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
-Sistema interno de gerenciamento de dossiês desenvolvido com React, Node.js e SQLite, implantado em VM com Linux Debian. Projeto em produção utilizado diariamente na Autoridade Certificadora de Defesa.
-
----
-
-### Projetos Responsivos
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Layouts responsivos construídos com HTML e CSS puro, com foco em design limpo e mobile-first.
+Sistema interno de gerenciamento de dossiês desenvolvido para a **Autoridade Certificadora de Defesa**. O projeto está em produção, rodando em ambiente Linux, e foca na eficiência e segurança dos dados internos da instituição.
 
 ---
 
@@ -93,7 +88,7 @@ Layouts responsivos construídos com HTML e CSS puro, com foco em design limpo e
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-lemos-code)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermelemos2600@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/glemoscode)
 
