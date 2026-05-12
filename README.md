@@ -14,10 +14,10 @@
 
 Atualmente, atuo como **Desenvolvedor na Autoridade Certificadora de Defesa**, órgão vinculado ao **Comando do Exército Brasileiro**. Sou responsável por manter e evoluir sistemas internos estratégicos, focando na melhoria contínua de serviços críticos e na implementação de soluções robustas.
 
-*   🎓 **Acadêmico:** Graduando em Análise e Desenvolvimento de Sistemas (ADS) pela **UDF**.
-*   🚀 **Especialização:** Formação FullStack Pro pelo **Dev Club**, sob mentoria de Rodolfo Mori.
-*   🛡️ **Prática Profissional:** Experiência real em todo o ciclo de vida do software, desde a arquitetura com **SQLite** até o deploy e gerenciamento em **Ambiente Linux (Debian)**.
-*   🤝 **Colaboração:** Trabalho em conjunto com equipes experientes, utilizando metodologias que priorizam a qualidade do código e a segurança da informação.
+* 🎓 **Acadêmico:** Graduando em Análise e Desenvolvimento de Sistemas (ADS) pela **UDF**.
+* 🚀 **Especialização:** Formação FullStack Pro pelo **Dev Club**, sob mentoria de Rodolfo Mori.
+* 🛡️ **Prática Profissional:** Experiência real em todo o ciclo de vida do software, desde a arquitetura com **SQLite** até o deploy e gerenciamento em **Ambiente Linux (Debian)**.
+* 🤝 **Colaboração:** Trabalho em conjunto com equipes experientes, utilizando metodologias que priorizam a qualidade do código e a segurança da informação.
 
 ---
 
@@ -52,9 +52,9 @@ Atualmente, atuo como **Desenvolvedor na Autoridade Certificadora de Defesa**, �
 
 ### SID — Sistema Integrado de Dossiês
 Solução desenvolvida para a **Autoridade Certificadora de Defesa**.
-*   **Contexto:** Sistema de missão crítica para gestão de dossiês e certificados.
-*   **Tecnologias:** React, Node.js e SQLite.
-*   **Deploy:** Implementado com sucesso em VM Linux Debian, garantindo alta performance e estabilidade para o fluxo de trabalho do órgão.
+* **Contexto:** Sistema de missão crítica para gestão de dossiês e certificados.
+* **Tecnologias:** React, Node.js e SQLite.
+* **Deploy:** Implementado com sucesso em VM Linux Debian, garantindo alta performance e estabilidade para o fluxo de trabalho do órgão.
 
 ---
 
@@ -62,12 +62,12 @@ Solução desenvolvida para a **Autoridade Certificadora de Defesa**.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=glemoscode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glemoscode&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glemoscode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glemoscode&layout=compact&langs_count=7&theme=dark"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glemoscode&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glemoscode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
