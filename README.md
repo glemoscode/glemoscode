@@ -54,7 +54,7 @@ Atualmente, atuo como **Desenvolvedor na Autoridade Certificadora de Defesa**, �
 Principal sistema de gestão integrada desenvolvido para a **Autoridade Certificadora de Defesa**.
 * **Arquitetura:** Desenvolvido com **Next.js 15**, utilizando Server Actions e validação rigorosa com **Zod**.
 * **Interface:** Dashboard interativo com **Recharts**, componentes acessíveis via **Radix UI** e design system baseado em **Shadcn/UI**.
-* **Segurança:** Autenticação robusta via JWT (Jose) e criptografia de dados.
+* **Segurança:** Autenticação robusta e criptografia de dados.
 * **Deploy:** Operando em VM Linux Debian, com alta performance e estabilidade.
 
 ---
