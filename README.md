@@ -62,8 +62,8 @@ Solução desenvolvida para a **Autoridade Certificadora de Defesa**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glemoscode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glemoscode&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=glemoscode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=glemoscode&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br/>
 
@@ -74,7 +74,6 @@ Solução desenvolvida para a **Autoridade Certificadora de Defesa**.
 <img src="https://raw.githubusercontent.com/glemoscode/glemoscode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
 ---
 
 ## 📫 Contato
