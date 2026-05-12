@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Roda a cada 12 horas
+  workflow_dispatch: # Permite rodar manualmente
   push:
     branches:
-      - main
+      - master # Ajustado para sua preferência de branch principal
 
 jobs:
   generate:
@@ -25,7 +25,7 @@ jobs:
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output # Os arquivos da cobrinha ficarão salvos aqui
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
