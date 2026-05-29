@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:161b22&height=200&section=header&text=Guilherme%20Lemos&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20Defesa%20Nacional&descAlignY=58&descSize=16&descColor=8b949e"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+15+%7C+Tailwind+CSS;Node.js+%7C+SQLite+%7C+Shadcn+UI;Desenvolvedor+Full+Stack+%7C+Sec%C3%A3o+de+TI+%2F+Ex%C3%A9rcito+Brasileiro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+TypeScript;React+%7C+Next.js+15+%7C+Tailwind+CSS;Node.js+%7C+SQLite+%7C+Shadcn+UI;Desenvolvedor+Full+Stack+%" alt="Typing SVG" />
 </a>
 
 <br/>
