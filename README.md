@@ -21,11 +21,11 @@
 
 ## 🏛️ Sobre Mim
 
-Desenvolvedor **Fullstack** atuando na **Autoridade Certificadora de Defesa**, órgão vinculado ao **Comando do Exército Brasileiro**. Responsável por projetar, manter e evoluir sistemas internos estratégicos com tecnologias modernas de alto desempenho.
+Desenvolvedor **Fullstack** atuando na **Autoridade Certificadora de Defesa**, órgão vinculado ao **Comando do Exército Brasileiro**. Responsável por projetar, manter e evoluir sistemas internos administrativos com tecnologias modernas de alto desempenho.
 
 - 🎓 **Graduando** em Análise e Desenvolvimento de Sistemas — **UDF**
 - 🚀 **Formação FullStack Pro** pelo **Dev Club**, mentoria de Rodolfo Mori
-- 🛡️ Arquiteturas Fullstack com **Next.js** em ambiente **Linux Debian**
+- 🛡️ Arquiteturas Fullstack com **Next.js** em ambiente **Linux**
 - 🤝 Foco em código limpo, segurança da informação e escalabilidade
 - 💡 Sempre explorando novas tecnologias e melhores práticas
 
